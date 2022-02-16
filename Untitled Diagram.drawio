@@ -1,17 +1,103 @@
-<mxfile host="app.diagrams.net" modified="2022-02-13T01:46:21.093Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.87 Safari/537.36" etag="nQ05ujuyDCBCyUDE6iCY" version="16.5.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-16T06:46:07.825Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.87 Safari/537.36" etag="PaCMvCDH75Votbda5o9q" version="16.5.6" type="github">
   <diagram id="XhS-XEhosxDVTuix9Ffp" name="Page-1">
-    <mxGraphModel dx="1422" dy="758" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="700" dy="748" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="NiX3NccCjvdwFrtulVD6-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="80" width="250" height="400" as="geometry" />
+        <mxCell id="t-loh_WhWAqeq0DBC9NK-9" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="600" width="140" height="60" as="geometry" />
         </mxCell>
-        <object label="" placeholders="1" id="NiX3NccCjvdwFrtulVD6-3">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="50" y="90" width="210" height="20" as="geometry" />
-          </mxCell>
-        </object>
+        <mxCell id="NiX3NccCjvdwFrtulVD6-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="280" y="60" width="250" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="t-loh_WhWAqeq0DBC9NK-2" value="&lt;b&gt;Party Planner App&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="325" y="120" width="160" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="t-loh_WhWAqeq0DBC9NK-4" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="410" y="460" as="sourcePoint" />
+            <mxPoint x="270" y="600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="t-loh_WhWAqeq0DBC9NK-6" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.556;exitY=1.005;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="NiX3NccCjvdwFrtulVD6-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="430" y="480" as="sourcePoint" />
+            <mxPoint x="530" y="600" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="t-loh_WhWAqeq0DBC9NK-7" value="Customer App" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="230" y="615" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="t-loh_WhWAqeq0DBC9NK-10" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="t-loh_WhWAqeq0DBC9NK-11" value="Event Managers" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="510" y="615" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="t-loh_WhWAqeq0DBC9NK-12" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="690" width="230" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="t-loh_WhWAqeq0DBC9NK-13" value="Search by Place and name ..." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="700" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="t-loh_WhWAqeq0DBC9NK-14" value="Top Event managers list" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="750" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="t-loh_WhWAqeq0DBC9NK-15" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="820" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="t-loh_WhWAqeq0DBC9NK-16" value="Display Pic" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="160" y="830" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="t-loh_WhWAqeq0DBC9NK-17" value="Description and Rating" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="830" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="t-loh_WhWAqeq0DBC9NK-18" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="980" width="230" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="t-loh_WhWAqeq0DBC9NK-19" value="Home" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="980" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="t-loh_WhWAqeq0DBC9NK-20" value="Profile" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="980" width="70" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="t-loh_WhWAqeq0DBC9NK-21" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="240" y="1040" as="sourcePoint" />
+            <mxPoint x="240" y="1140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="t-loh_WhWAqeq0DBC9NK-22" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="1140" width="230" height="370" as="geometry" />
+        </mxCell>
+        <mxCell id="t-loh_WhWAqeq0DBC9NK-23" value="Help and support" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="980" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="t-loh_WhWAqeq0DBC9NK-24" value="Event Manager Description" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="1140" width="230" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="t-loh_WhWAqeq0DBC9NK-25" value="DP" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="1210" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="t-loh_WhWAqeq0DBC9NK-26" value="Top Rating" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="1250" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="t-loh_WhWAqeq0DBC9NK-28" value="Caption and Description(what they provide)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="1300" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="t-loh_WhWAqeq0DBC9NK-29" value="Expertise in&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="1340" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="t-loh_WhWAqeq0DBC9NK-30" value="Customer Review and Ratings" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="1420" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="t-loh_WhWAqeq0DBC9NK-31" value="Price" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="1380" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="t-loh_WhWAqeq0DBC9NK-33" value="Call and Schedule(additional availability)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="1460" width="200" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
